@@ -1,0 +1,137 @@
+{
+  "brand": {
+    "name": "TV Pro",
+    "accent": "#1a73e8"
+  },
+  "layout": "Simple",
+  "sections": [
+    {
+      "type": "Hero",
+      "variant": "centered",
+      "headline": "Experience TV Like Never Before",
+      "subheadline": "Stream your favorite shows and movies anytime, anywhere. Enjoy high-quality entertainment on any device.",
+      "primaryCta": {
+        "label": "Start Watching Now",
+        "href": "/signup"
+      },
+      "image": {
+        "kind": "url",
+        "name": "smart-tv",
+        "url": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308"
+      }
+    },
+    {
+      "type": "Features",
+      "items": [
+        {
+          "title": "Crystal Clear Picture Quality",
+          "desc": "Experience your favorite shows and movies in stunning high definition with vibrant colors and sharp details."
+        },
+        {
+          "title": "Smart TV Capabilities",
+          "desc": "Access popular streaming apps, browse the web, and enjoy a world of entertainment directly from your TV."
+        },
+        {
+          "title": "Voice Control Integration",
+          "desc": "Easily control your TV with voice commands for hands-free convenience and quick navigation."
+        },
+        {
+          "title": "Multiple Connectivity Options",
+          "desc": "Connect your devices effortlessly with HDMI, USB, and wireless options for a seamless entertainment setup."
+        }
+      ]
+    },
+    {
+      "type": "Pricing",
+      "plans": [
+        {
+          "name": "Basic",
+          "price": "$9.99",
+          "period": "per month",
+          "features": [
+            "Access to 50+ channels",
+            "HD streaming",
+            "1 device at a time",
+            "No contract"
+          ]
+        },
+        {
+          "name": "Standard",
+          "price": "$14.99",
+          "period": "per month",
+          "features": [
+            "Access to 100+ channels",
+            "Full HD streaming",
+            "3 devices at a time",
+            "Cloud DVR included"
+          ]
+        },
+        {
+          "name": "Premium",
+          "price": "$19.99",
+          "period": "per month",
+          "features": [
+            "Access to 150+ channels",
+            "4K Ultra HD streaming",
+            "Unlimited devices",
+            "Cloud DVR & On-Demand Library"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Testimonials",
+      "items": [
+        {
+          "name": "Sarah M.",
+          "quote": "The picture quality is stunning and the smart features are so easy to use. Highly recommend!"
+        },
+        {
+          "name": "James T.",
+          "quote": "Setup was a breeze and streaming my favorite shows has never been smoother."
+        },
+        {
+          "name": "Priya S.",
+          "quote": "Excellent value for the price. Customer support was also very helpful when I had questions."
+        }
+      ]
+    },
+    {
+      "type": "FAQ",
+      "items": [
+        {
+          "q": "What types of TVs do you offer?",
+          "a": "We offer a wide range of TVs including LED, OLED, QLED, and Smart TVs from top brands."
+        },
+        {
+          "q": "Do you provide installation services?",
+          "a": "Yes, we offer professional installation services for all TVs purchased through our website."
+        },
+        {
+          "q": "Is there a warranty on the TVs?",
+          "a": "All TVs come with a manufacturer’s warranty. Extended warranty options are also available at checkout."
+        },
+        {
+          "q": "Can I return or exchange my TV?",
+          "a": "Yes, you can return or exchange your TV within 30 days of delivery, provided it is in its original condition."
+        },
+        {
+          "q": "How long does shipping take?",
+          "a": "Shipping typically takes 3-7 business days, depending on your location and the TV model selected."
+        }
+      ]
+    },
+    {
+      "type": "CTA",
+      "headline": "Experience the Best in TV Entertainment Today!",
+      "cta": {
+        "label": "Start Watching Now",
+        "href": "/signup"
+      }
+    },
+    {
+      "type": "Footer",
+      "note": "© 2024 TV Website. All rights reserved. | Privacy Policy | Terms of Service"
+    }
+  ]
+}
